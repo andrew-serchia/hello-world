@@ -1,3 +1,0 @@
-Test file for the cat branch.
-
-Here's a new line.  Let's see if there are any merge conflicts going from cats1 branch to master.
